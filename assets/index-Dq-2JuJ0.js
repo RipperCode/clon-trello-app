@@ -149,7 +149,7 @@ var S=Object.defineProperty;var m=a=>{throw TypeError(a)};var q=(a,t,e)=>t in a?
 			<ul>
 				<li>
 					Recientes
-					<img src="/clon-trello-app/src/icons/small-down.svg" alt="dropdown Icon">
+					<img src="/clon-trello-app/icons/small-down.svg" alt="dropdown Icon">
 					<div class="dropdown">
 						<a href="">reciente 1</a>
 						<a href="">reciente 2</a>
@@ -157,7 +157,7 @@ var S=Object.defineProperty;var m=a=>{throw TypeError(a)};var q=(a,t,e)=>t in a?
 				</li>
 				<li>
 					Marcado
-					<img src="/clon-trello-app/src/icons/small-down.svg" alt="dropdown Icon">
+					<img src="/clon-trello-app/icons/small-down.svg" alt="dropdown Icon">
 					<div class="dropdown">
 						<a href="">marca 1</a>
 						<a href="">marca 2</a>
@@ -247,7 +247,7 @@ var S=Object.defineProperty;var m=a=>{throw TypeError(a)};var q=(a,t,e)=>t in a?
   				<div class="add">
 					 mis tableros
 					<div class="addButon">
-						<img src="/clon-trello-app/src/icons/plus.svg" alt="boton de add">
+						<img src="/clon-trello-app/icons/plus.svg" alt="boton de add">
 					</div>					
   				</div>
   				<main>
@@ -484,7 +484,7 @@ var S=Object.defineProperty;var m=a=>{throw TypeError(a)};var q=(a,t,e)=>t in a?
             <table-header name='${this.name}'></table-header>
             <main>
                 <button class="addListButton">
-                    <img src="/clon-trello-app/src/icons/plus.svg" alt="boton de add">
+                    <img src="/clon-trello-app/icons/plus.svg" alt="boton de add">
                     new list
                     <new-list-form></new-list-form>
                 </button>  
